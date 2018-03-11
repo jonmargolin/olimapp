@@ -1,0 +1,23 @@
+.ios, .md {
+    home-page {
+
+    .scroll {
+        height: 100%
+      }
+ 
+      #map {
+        width: 100%;
+        height: 100%;
+      }
+      #markerLayer img {
+        /*border: 2px solid red !important;*/
+        background-color: #cb26f0;
+        width: 16px !important;
+        height: 18px !important;
+        border-radius: 10px;
+        display: inline-block;
+        position: relative;
+        box-shadow: 0 3px 3px #999;
+      }
+}
+}
